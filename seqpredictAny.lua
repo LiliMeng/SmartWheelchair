@@ -130,7 +130,7 @@ for line in f:lines() do
    end
    
  
-   print(string.format("elapsed time: %.6f\n", os.clock() - x))
+ -- print(string.format("elapsed time: %.6f\n", os.clock() - x))
 
 
 end -- for loop
